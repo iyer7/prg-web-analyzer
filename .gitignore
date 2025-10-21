@@ -1,0 +1,9 @@
+# PyCharm files
+.idea/
+__pycache__/
+
+# Temp files
+temp_files/
+
+# macOS files
+.DS_Store
