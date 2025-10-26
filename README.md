@@ -10,7 +10,7 @@ This tool is designed for technicians, researchers, and engineers who work with 
 
 ## 📸 Quick Demo
 
-![Screenshot of the Analyzer in action]([https://i.imgur.com/YOUR_IMAGE_LINK.png](https://i.imgur.com/JnmREBB.jpeg))  
+![Screenshot of the Analyzer in action]([[https://i.imgur.com/YOUR_IMAGE_LINK.png](https://i.imgur.com/JnmREBB.jpeg](https://imgur.com/gallery/prg-file-analyzer-app-s41YBQh)))  
 
 ---
 
