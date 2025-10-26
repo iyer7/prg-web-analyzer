@@ -4,13 +4,13 @@
 
 This tool is designed for technicians, researchers, and engineers who work with Optomec Aerosol Jet Printers. It allows you to upload a design file *before* printing to find potential issues like sharp corners, non-tangential curves, and arcs that would exceed a given G-force limit.
 
-**[Live Application URL]([https://prg-web-analyzer.streamlit.app](https://prg-web-analyzer-vw43e8ieuq532g6xqfd44t.streamlit.app/))**
+**[Live Application URL](https://prg-web-analyzer-vw43e8ieuq532g6xqfd44t.streamlit.app/)**
 
 ---
 
 ## 📸 Quick Demo
 
-![Screenshot of the Analyzer in action]([[https://i.imgur.com/YOUR_IMAGE_LINK.png](https://i.imgur.com/JnmREBB.jpeg](https://imgur.com/gallery/prg-file-analyzer-app-s41YBQh)))  
+![Screenshot of the Analyzer in action](https://i.imgur.com/JnmREBB.jpeg)
 
 ---
 
@@ -29,7 +29,7 @@ This tool is designed for technicians, researchers, and engineers who work with 
 
 ## 🛠️ How to Use
 
-1.  **Open the Web App:** Navigate to the [live application URL]([https://prg-web-analyzer.streamlit.app](https://prg-web-analyzer-vw43e8ieuq532g6xqfd44t.streamlit.app/)).
+1.  **Open the Web App:** Navigate to the [live application URL](https://prg-web-analyzer-vw43e8ieuq532g6xqfd44t.streamlit.app/).
 2.  **Upload File:** Click the "Upload your .prg file" button in the sidebar and select your file.
 3.  **Set G-Factor:** In the sidebar, enter the desired acceleration limit as a factor of g=9800 mm/s^2 (e.g., `0.5`).
 4.  **Run Analysis:** Click the "Run Analysis" button.
@@ -88,4 +88,4 @@ The analysis is performed using a custom parser that reads the `.prg` file line-
 
 ## 🧑‍💻 Author
 
-* **[Suraj Ramesh Iyer]** - *Initial Work & Development* - [https://github.com/iyer7]
+* **[Suraj Ramesh Iyer]** - *Initial Work & Development* - [https://github.com/iyer7](https://github.com/iyer7)
